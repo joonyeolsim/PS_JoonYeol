@@ -4,4 +4,4 @@ project(PS_JoonYeol)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(PS_JoonYeol main.cpp)
-add_executable(BaekJoon_Math_Hello_World "BaekJoon/Implementation/2557번 Hello World/Hello World.cpp")
+add_executable(BaekJoon_Math_1000 BaekJoon/Math/1000번\ A+B/A+B.cpp)
