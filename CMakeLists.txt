@@ -9,3 +9,4 @@ add_executable(solve_2557 "BaekJoon/Implementation/2557번 Hello World/solve_255
 add_executable(solve_2558 "BaekJoon/Math/2558번 A+B-2/solve_2558.cpp")
 add_executable(solve_10950 "BaekJoon/Math/10950번 A+B-3/solve_10950.cpp")
 add_executable(solve_11718 "BaekJoon/String/11718번 그대로 출력하기/solve_11718.cpp")
+add_executable(solve_10926 "BaekJoon/String/10926번 놀람/solve_10926.cpp")
