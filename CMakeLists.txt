@@ -14,3 +14,4 @@ add_executable(solve_11719 "BaekJoon/String/11719번 그대로 출력하기 2/so
 add_executable(solve_18108 "BaekJoon/String/18108번 1998년생인 내가 태국에서는 2541년생/solve_18108.cpp")
 add_executable(solve_1233 "BaekJoon/BruteForce/1233번 주사위/solve_1233.cpp")
 add_executable(solve_10845 "BaekJoon/Queue/10845번 큐/solve_10845.cpp")
+add_executable(solve_1049 "BaekJoon/Greedy/1049번 기타줄/solve_1049.cpp")
