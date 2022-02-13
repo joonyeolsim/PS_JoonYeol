@@ -15,3 +15,4 @@ add_executable(solve_18108 "BaekJoon/String/18108번 1998년생인 내가 태국
 add_executable(solve_1233 "BaekJoon/BruteForce/1233번 주사위/solve_1233.cpp")
 add_executable(solve_10845 "BaekJoon/Queue/10845번 큐/solve_10845.cpp")
 add_executable(solve_1049 "BaekJoon/Greedy/1049번 기타줄/solve_1049.cpp")
+add_executable(solve_5639 "BaekJoon/Tree/5639번 이진 검색 트리/solve_5639.cpp")
