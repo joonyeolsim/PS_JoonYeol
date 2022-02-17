@@ -21,3 +21,4 @@ add_executable(solve_5639 "BaekJoon/Tree/5639번 이진 검색 트리/solve_5639
 add_executable(solve_10250 "BaekJoon/Math/10250번 ACM호텔/solve_10250.cpp")
 add_executable(solve_1929 "BaekJoon/Math/1929번 소수 구하기/solve_1929.cpp")
 add_executable(solve_2475 "BaekJoon/Math/2475번 검증수/solve_2475.cpp")
+add_executable(solve_2417 "BaekJoon/Math/2417번 정수 제곱근/solve_2417.cpp")
