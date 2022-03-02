@@ -26,3 +26,4 @@ add_executable(solve_2525 "BaekJoon/Implementation/2525번 오븐 시계/solve_2
 add_executable(1solve_1924 "BaekJoon/Implementation/1924번 2007년/solve_1924.cpp")
 add_executable(solve_2445 "BaekJoon/Implementation/2445번 별 찍기 - 8/solve_2445.cpp")
 add_executable(solve_2446 "BaekJoon/Implementation/2446번 별 찍기 - 9/solve_2446.cpp")
+add_executable(solve_1463 "BaekJoon/DynamicProgramming/1463번 1로 만들기/solve_1463.cpp")
