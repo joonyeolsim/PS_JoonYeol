@@ -28,3 +28,4 @@ add_executable(solve_2445 "BaekJoon/Implementation/2445번 별 찍기 - 8/solve_
 add_executable(solve_2446 "BaekJoon/Implementation/2446번 별 찍기 - 9/solve_2446.cpp")
 add_executable(solve_1463 "BaekJoon/DynamicProgramming/1463번 1로 만들기/solve_1463.cpp")
 add_executable(solve_11725 "BaekJoon/GraphTraversal/11725번 트리의 부모 찾기/solve_11725.cpp")
+add_executable(solve_1325 "BaekJoon/GraphTraversal/1325번 효율적인 해킹/solve_1325.cpp")
