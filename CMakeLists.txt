@@ -32,3 +32,4 @@ add_executable(solve_1325 "BaekJoon/GraphTraversal/1325번 효율적인 해킹/s
 add_executable(solve_17626 "BaekJoon/DynamicProgramming/17626번 Four Squares/solve_17626.cpp")
 add_executable(solve_1806 "BaekJoon/TwoPointer/1806번 부분합/solve_1806.cpp")
 add_executable(solve_12847 "BaekJoon/SlidingWindow/12847번 꿀 아르바이트/solve_12847.cpp")
+add_executable(solve_14719 "BaekJoon/Implementation/14719번 빗물/solve_14719.cpp")
