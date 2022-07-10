@@ -1,6 +1,11 @@
-#include <iostream>
+#include <bits/stdc++.h>
+
+using namespace std;
 
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
