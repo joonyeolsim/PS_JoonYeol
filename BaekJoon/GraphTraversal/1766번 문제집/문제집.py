@@ -16,7 +16,7 @@ if __name__ == '__main__':
         outgoing_edges[node1].add(node2)
         incoming_edges[node2].add(node1)
 
-    # find incoming edge node
+    # find no incoming edge node
     for problem, incoming_edge in enumerate(incoming_edges[1:]):
         if not incoming_edge:
             heapq.heappush(heap, problem + 1)
