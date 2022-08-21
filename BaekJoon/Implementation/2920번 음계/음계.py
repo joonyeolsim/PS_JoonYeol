@@ -1,15 +1,11 @@
+import sys
+
 if __name__ == '__main__':
-    a_list = list(map(int, input().split()))
+    pitch = sys.stdin.readline().strip()
 
-    pre_a = a_list[0]
-    total_sum = 0
-
-    for a in a_list[1:]:
-        total_sum += pre_a - a
-        pre_a = a
-    if total_sum == 7:
+    if pitch == "8 7 6 5 4 3 2 1":
         print("descending")
-    elif total_sum == -7:
+    elif pitch == "1 2 3 4 5 6 7 8":
         print("ascending")
     else:
         print("mixed")
