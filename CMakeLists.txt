@@ -34,3 +34,4 @@ add_executable(solve_1806 "BaekJoon/TwoPointer/1806번 부분합/solve_1806.cpp"
 add_executable(solve_12847 "BaekJoon/SlidingWindow/12847번 꿀 아르바이트/solve_12847.cpp")
 add_executable(solve_14719 "BaekJoon/Implementation/14719번 빗물/solve_14719.cpp")
 add_executable(solve_9184 "BaekJoon/DynamicProgramming/9184번 신나는 함수 실행/solve_9184.cpp")
+add_executable(solve_1914 "BaekJoon/BruteForce/1914번 하노이탑/solve_1914.cpp")
