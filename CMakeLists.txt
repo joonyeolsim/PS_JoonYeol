@@ -37,3 +37,4 @@ add_executable(solve_9184 "BaekJoon/DynamicProgramming/9184번 신나는 함수 
 add_executable(solve_1914 "BaekJoon/BruteForce/1914번 하노이탑/solve_1914.cpp")
 add_executable(solve2217 "BaekJoon/Greedy/2217번 로프/solve_2217.cpp")
 add_executable(solve_1966 "BaekJoon/Queue/1966번 프린터 큐/solve_1966.cpp")
+add_executable(solve_7576 "BaekJoon/GraphTraversal/7576번 토마토/solve_7576.cpp")
